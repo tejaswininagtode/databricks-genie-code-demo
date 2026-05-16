@@ -73,12 +73,6 @@ AI tools like Genie Code are reducing repetitive engineering effort and allowing
 
 ---
 
-## 📌 Final Thoughts
-
-Still exploring more capabilities, but the experience so far has been very interesting.
-
----
-
 ## 📂 Reference
 
 Sample notebook and workflow are available in this repository for further exploration.
